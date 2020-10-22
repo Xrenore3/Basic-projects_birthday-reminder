@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Basic-projects_birthday-reminder/precache-manifest.219ea869be566c9ed8cc72abe815239e.js"
+  "/Basic-projects_birthday-reminder/precache-manifest.2ab0fcd72f8dea39207e162253192e39.js"
 );
 
 self.addEventListener('message', (event) => {

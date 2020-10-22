@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Basic-projects_birthday-reminder/static/css/main.10d6a708.chunk.css",
-    "main.js": "/Basic-projects_birthday-reminder/static/js/main.6516fa50.chunk.js",
-    "main.js.map": "/Basic-projects_birthday-reminder/static/js/main.6516fa50.chunk.js.map",
+    "main.css": "/Basic-projects_birthday-reminder/static/css/main.970cd29b.chunk.css",
+    "main.js": "/Basic-projects_birthday-reminder/static/js/main.65d3933a.chunk.js",
+    "main.js.map": "/Basic-projects_birthday-reminder/static/js/main.65d3933a.chunk.js.map",
     "runtime-main.js": "/Basic-projects_birthday-reminder/static/js/runtime-main.605e2a46.js",
     "runtime-main.js.map": "/Basic-projects_birthday-reminder/static/js/runtime-main.605e2a46.js.map",
-    "static/js/2.611ee867.chunk.js": "/Basic-projects_birthday-reminder/static/js/2.611ee867.chunk.js",
-    "static/js/2.611ee867.chunk.js.map": "/Basic-projects_birthday-reminder/static/js/2.611ee867.chunk.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/Basic-projects_birthday-reminder/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/Basic-projects_birthday-reminder/static/js/2.1f771bf1.chunk.js.map",
     "index.html": "/Basic-projects_birthday-reminder/index.html",
-    "precache-manifest.219ea869be566c9ed8cc72abe815239e.js": "/Basic-projects_birthday-reminder/precache-manifest.219ea869be566c9ed8cc72abe815239e.js",
+    "precache-manifest.2ab0fcd72f8dea39207e162253192e39.js": "/Basic-projects_birthday-reminder/precache-manifest.2ab0fcd72f8dea39207e162253192e39.js",
     "service-worker.js": "/Basic-projects_birthday-reminder/service-worker.js",
-    "static/css/main.10d6a708.chunk.css.map": "/Basic-projects_birthday-reminder/static/css/main.10d6a708.chunk.css.map",
-    "static/js/2.611ee867.chunk.js.LICENSE.txt": "/Basic-projects_birthday-reminder/static/js/2.611ee867.chunk.js.LICENSE.txt"
+    "static/css/main.970cd29b.chunk.css.map": "/Basic-projects_birthday-reminder/static/css/main.970cd29b.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/Basic-projects_birthday-reminder/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.605e2a46.js",
-    "static/js/2.611ee867.chunk.js",
-    "static/css/main.10d6a708.chunk.css",
-    "static/js/main.6516fa50.chunk.js"
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.970cd29b.chunk.css",
+    "static/js/main.65d3933a.chunk.js"
   ]
 }
